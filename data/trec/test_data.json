@@ -1,0 +1,3620 @@
+[
+    {
+        "text": "How far is it from Denver to Aspen ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What county is Modesto , California in ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Who was Galileo ?",
+        "label": 2,
+        "major": 2,
+        "len": 4
+    },
+    {
+        "text": "What is an atom ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "When did Hawaii become a state ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "How tall is the Sears Building ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "George Bush purchased a small interest in which baseball team ?",
+        "label": 2,
+        "major": 1,
+        "len": 11
+    },
+    {
+        "text": "What is Australia 's national flower ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Why does the moon turn orange ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is autism ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What city had a world fair in 1900 ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What person 's head is on a dime ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What is the average weight of a Yellow Labrador ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "Who was the first man to fly across the Pacific Ocean ?",
+        "label": 2,
+        "major": 2,
+        "len": 12
+    },
+    {
+        "text": "When did Idaho become a state ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is the life expectancy for crickets ?",
+        "label": 5,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What metal has the highest melting point ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Who developed the vaccination against polio ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "What is epilepsy ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What year did the Titanic sink ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "Who was the first American to walk in space ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What is a biosphere ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What river in the US is known as the Big Muddy ?",
+        "label": 4,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "What is bipolar disorder ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is cholesterol ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who developed the Macintosh computer ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "What is caffeine ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What imaginary line is halfway between the North and South Poles ?",
+        "label": 4,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "Where is John Wayne airport ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What hemisphere is the Philippines in ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is the average speed of the horses at the Kentucky Derby ?",
+        "label": 5,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "Where are the Rocky Mountains ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What are invertebrates ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the temperature at the center of the earth ?",
+        "label": 5,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "When did John F. Kennedy get elected as President ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "How old was Elvis Presley when he died ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "Where is the Orinoco River ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "How far is the service line from the net in tennis ?",
+        "label": 5,
+        "major": 5,
+        "len": 12
+    },
+    {
+        "text": "How much fiber should you have per day ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "How many Great Lakes are there ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "Material called linen is made from what plant ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is Teflon ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is amitriptyline ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is a shaman ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the proper name for a female walrus ?",
+        "label": 1,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "What is a group of turkeys called ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "How long did Rip Van Winkle sleep ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What are triglycerides ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "How many liters in a gallon ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is the name of the chocolate company in San Francisco ?",
+        "label": 2,
+        "major": 1,
+        "len": 12
+    },
+    {
+        "text": "What are amphibians ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who discovered x-rays ?",
+        "label": 2,
+        "major": 2,
+        "len": 4
+    },
+    {
+        "text": "Which comedian 's signature line is `` Can we talk '' ?",
+        "label": 2,
+        "major": -1,
+        "len": 12
+    },
+    {
+        "text": "What is fibromyalgia ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is done with worn or outdated flags ?",
+        "label": 0,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What does cc in engines mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "When did Elvis Presley die ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is the capital of Yugoslavia ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "Where is Milan ?",
+        "label": 4,
+        "major": 4,
+        "len": 4
+    },
+    {
+        "text": "What is the speed hummingbirds fly ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is the oldest city in the United States ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What was W.C. Fields ' real name ?",
+        "label": 2,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What river flows between Fargo , North Dakota and Moorhead , Minnesota ?",
+        "label": 4,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "What do bats eat ?",
+        "label": 1,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What state did the Battle of Bighorn take place in ?",
+        "label": 4,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "Who was Abraham Lincoln ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "What do you call a newborn kangaroo ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What are spider veins ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What day and month did John Lennon die ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What strait separates North America from Asia ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the population of Seattle ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "How much was a ticket for the Titanic ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What is the largest city in the world ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What American composer wrote the music for `` West Side Story '' ?",
+        "label": 2,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "Where is the Mall of the America ?",
+        "label": 4,
+        "major": 4,
+        "len": 8
+    },
+    {
+        "text": "What is the pH scale ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What type of currency is used in Australia ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "How tall is the Gateway Arch in St. Louis , MO ?",
+        "label": 5,
+        "major": 5,
+        "len": 12
+    },
+    {
+        "text": "How much does the human adult female brain weigh ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "Who was the first governor of Alaska ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "What is a prism ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "When was the first liver transplant ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "Who was elected president of South Africa in 1994 ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What is the population of China ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "When was Rosa Parks born ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "Why is a ladybug helpful ?",
+        "label": 0,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "What is amoxicillin ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who was the first female United States Representative ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What are xerophytes ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What country did Ponce de Leon come from ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?",
+        "label": 1,
+        "major": -1,
+        "len": 16
+    },
+    {
+        "text": "What is desktop publishing ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the temperature of the sun 's surface ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What year did Canada join the United Nations ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What is the oldest university in the US ?",
+        "label": 2,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "Where is Prince Edward Island ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "Mercury , what year was it discovered ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What is cryogenics ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What are coral reefs ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the longest major league baseball-winning streak ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is neurology ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who invented the calculator ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "How do you measure earthquakes ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "Who is Duke Ellington ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "What county is Phoenix , AZ in ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is a micron ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "The sun 's core , what is the temperature ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is the Ohio state bird ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "When were William Shakespeare 's twins born ?",
+        "label": 5,
+        "major": -1,
+        "len": 8
+    },
+    {
+        "text": "What is the highest dam in the U.S. ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What color is a poison arrow frog ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is acupuncture ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the length of the coastline of the state of Alaska ?",
+        "label": 5,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "What is the name of Neil Armstrong 's wife ?",
+        "label": 2,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "What is Hawaii 's state flower ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Who won Ms. American in 1989 ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "When did the Hindenberg crash ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What mineral helps prevent osteoporosis ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What was the last year that the Chicago Cubs won the World Series ?",
+        "label": 5,
+        "major": 5,
+        "len": 14
+    },
+    {
+        "text": "Where is Perth ?",
+        "label": 4,
+        "major": 4,
+        "len": 4
+    },
+    {
+        "text": "What year did WWII begin ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is the diameter of a golf ball ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is an eclipse ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Who discovered America ?",
+        "label": 2,
+        "major": 2,
+        "len": 4
+    },
+    {
+        "text": "What is the earth 's diameter ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Which president was unmarried ?",
+        "label": 2,
+        "major": -1,
+        "len": 5
+    },
+    {
+        "text": "How wide is the Milky Way galaxy ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "During which season do most thunderstorms occur ?",
+        "label": 5,
+        "major": -1,
+        "len": 8
+    },
+    {
+        "text": "What is Wimbledon ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the gestation period for a cat ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "How far is a nautical mile ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?",
+        "label": 2,
+        "major": 2,
+        "len": 15
+    },
+    {
+        "text": "What does target heart rate mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What was the first satellite to go into space ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is foreclosure ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the major fault line near Kentucky ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "Where is the Holland Tunnel ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "Who wrote the hymn `` Amazing Grace '' ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What position did Willie Davis play in baseball ?",
+        "label": 2,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What are platelets ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is severance pay ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the name of Roy Roger 's dog ?",
+        "label": 1,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "Where are the National Archives ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What is a baby turkey called ?",
+        "label": 1,
+        "major": 1,
+        "len": 7
+    },
+    {
+        "text": "What is poliomyelitis ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the longest bone in the human body ?",
+        "label": 1,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "Who is a German philosopher ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "What were Christopher Columbus ' three ships ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What does Phi Beta Kappa mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is nicotine ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is another name for vitamin B1 ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "Who discovered radium ?",
+        "label": 2,
+        "major": 2,
+        "len": 4
+    },
+    {
+        "text": "What are sunspots ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "When was Algeria colonized ?",
+        "label": 5,
+        "major": 5,
+        "len": 5
+    },
+    {
+        "text": "What baseball team was the first to make numbers part of their uniform ?",
+        "label": 2,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "What continent is Egypt on ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the capital of Mongolia ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "What is nanotechnology ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "In the late 1700 's British convicts were used to populate which colony ?",
+        "label": 4,
+        "major": -1,
+        "len": 14
+    },
+    {
+        "text": "What state is the geographic center of the lower 48 states ?",
+        "label": 4,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "What is an obtuse angle ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What are polymers ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "When is hurricane season in the Caribbean ?",
+        "label": 5,
+        "major": -1,
+        "len": 8
+    },
+    {
+        "text": "Where is the volcano Mauna Loa ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "What is another astronomic term for the Northern Lights ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What peninsula is Spain part of ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "When was Lyndon B. Johnson born ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is acetaminophen ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What state has the least amount of rain per year ?",
+        "label": 4,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "Who founded American Red Cross ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "What year did the Milwaukee Braves become the Atlanta Braves ?",
+        "label": 5,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "How fast is alcohol absorbed ?",
+        "label": 5,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "When is the summer solstice ?",
+        "label": 5,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "What is supernova ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Where is the Shawnee National Forest ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "What U.S. state 's motto is `` Live free or Die '' ?",
+        "label": 4,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "Where is the Lourve ?",
+        "label": 4,
+        "major": 4,
+        "len": 5
+    },
+    {
+        "text": "When was the first stamp issued ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What primary colors do you mix to make orange ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "How far is Pluto from the sun ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What body of water are the Canary Islands in ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is neuropathy ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Where is the Euphrates River ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What is cryptography ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is natural gas composed of ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Who is the Prime Minister of Canada ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "What French ruler was defeated at the battle of Waterloo ?",
+        "label": 2,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is leukemia ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Where did Howard Hughes die ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What is the birthstone for June ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is the sales tax in Minnesota ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the distance in miles from the earth to the sun ?",
+        "label": 5,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "What is the average life span for a chicken ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "When was the first Wal-Mart store opened ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What is relative humidity ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What city has the zip code of 35824 ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What currency is used in Algeria ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Who invented the hula hoop ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "What was the most popular toy in 1957 ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is pastrami made of ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the name of the satellite that the Soviet Union sent into space in 1957 ?",
+        "label": 1,
+        "major": 1,
+        "len": 17
+    },
+    {
+        "text": "What city 's newspaper is called `` The Enquirer '' ?",
+        "label": 4,
+        "major": 1,
+        "len": 11
+    },
+    {
+        "text": "Who invented the slinky ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "What are the animals that don 't have backbones called ?",
+        "label": 1,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "What is the melting point of copper ?",
+        "label": 5,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Where is the volcano Olympus Mons located ?",
+        "label": 4,
+        "major": 4,
+        "len": 8
+    },
+    {
+        "text": "Who was the 23rd president of the United States ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What is the average body temperature ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What does a defibrillator do ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the effect of acid rain ?",
+        "label": 0,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What year did the United States abolish the draft ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "How fast is the speed of light ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What province is Montreal in ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What New York City structure is also known as the Twin Towers ?",
+        "label": 4,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "What is fungus ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the most frequently spoken language in the Netherlands ?",
+        "label": 1,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is sodium chloride ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What are the spots on dominoes called ?",
+        "label": 1,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "How many pounds in a ton ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is influenza ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is ozone depletion ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What year was the Mona Lisa painted ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What does `` Sitting Shiva '' mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the electrical output in Madrid , Spain ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "Which mountain range in North America stretches from Maine to Georgia ?",
+        "label": 4,
+        "major": -1,
+        "len": 12
+    },
+    {
+        "text": "What is plastic made of ?",
+        "label": 1,
+        "major": 1,
+        "len": 6
+    },
+    {
+        "text": "What is the population of Nigeria ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What does your spleen do ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "Where is the Grand Canyon ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "Who invented the telephone ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "What year did the U.S. buy Alaska ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What is the name of the leader of Ireland ?",
+        "label": 2,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "What is phenylalanine ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "How many gallons of water are there in a cubic foot ?",
+        "label": 5,
+        "major": 5,
+        "len": 12
+    },
+    {
+        "text": "What are the two houses of the Legislative branch ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is sonar ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "In Poland , where do most people live ?",
+        "label": 4,
+        "major": 4,
+        "len": 9
+    },
+    {
+        "text": "What is phosphorus ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the location of the Sea of Tranquility ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "How fast is sound ?",
+        "label": 5,
+        "major": -1,
+        "len": 5
+    },
+    {
+        "text": "What French province is cognac produced in ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is Valentine 's Day ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What causes gray hair ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is hypertension ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is bandwidth ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the longest suspension bridge in the U.S. ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is a parasite ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is home equity ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What do meteorologists do ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the criterion for being legally blind ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "Who is the tallest man in the world ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What are the twin cities ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What did Edward Binney and Howard Smith invent in 1903 ?",
+        "label": 1,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is the statue of liberty made of ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is pilates ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What planet is known as the `` red '' planet ?",
+        "label": 4,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is the depth of the Nile river ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is the colorful Korean traditional dress called ?",
+        "label": 1,
+        "major": 1,
+        "len": 9
+    },
+    {
+        "text": "What is Mardi Gras ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Mexican pesos are worth what in U.S. dollars ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "Who was the first African American to play for the Brooklyn Dodgers ?",
+        "label": 2,
+        "major": 2,
+        "len": 13
+    },
+    {
+        "text": "Who was the first Prime Minister of Canada ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "How many Admirals are there in the U.S. Navy ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "What instrument did Glenn Miller play ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "How old was Joan of Arc when she died ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "What does the word fortnight mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is dianetics ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the capital of Ethiopia ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "For how long is an elephant pregnant ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "How did Janice Joplin die ?",
+        "label": 0,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "What is the primary language in Iceland ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the difference between AM radio stations and FM radio stations ?",
+        "label": 0,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "What is osteoporosis ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who was the first woman governor in the U.S. ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What is peyote ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the esophagus used for ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is viscosity ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What year did Oklahoma become a state ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What is the abbreviation for Texas ?",
+        "label": 3,
+        "major": 3,
+        "len": 7
+    },
+    {
+        "text": "What is a mirror made out of ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Where on the body is a mortarboard worn ?",
+        "label": 4,
+        "major": 4,
+        "len": 9
+    },
+    {
+        "text": "What was J.F.K. 's wife 's name ?",
+        "label": 2,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What does I.V. stand for ?",
+        "label": 3,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the chunnel ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Where is Hitler buried ?",
+        "label": 4,
+        "major": 4,
+        "len": 5
+    },
+    {
+        "text": "What are antacids ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is pulmonary fibrosis ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What are Quaaludes ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is naproxen ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is strep throat ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the largest city in the U.S. ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is foot and mouth disease ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is the life expectancy of a dollar bill ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What do you call a professional map drawer ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What are Aborigines ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is hybridization ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What color is indigo ?",
+        "label": 1,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "How old do you have to be in order to rent a car in Italy ?",
+        "label": 5,
+        "major": 0,
+        "len": 16
+    },
+    {
+        "text": "What does a barometer measure ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What color is a giraffe 's tongue ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What does USPS stand for ?",
+        "label": 3,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What year did the NFL go on strike ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What is solar wind ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What date did Neil Armstrong land on the moon ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "When was Hiroshima bombed ?",
+        "label": 5,
+        "major": 5,
+        "len": 5
+    },
+    {
+        "text": "Where is the Savannah River ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "Who was the first woman killed in the Vietnam War ?",
+        "label": 2,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "What planet has the strongest magnetic field of all the planets ?",
+        "label": 4,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "Who is the governor of Alaska ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "What year did Mussolini seize power in Italy ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What is the capital of Persia ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Where is the Eiffel Tower ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "How many hearts does an octopus have ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What is pneumonia ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the deepest lake in the US ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is a fuel cell ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "Who was the first U.S. president to appear on TV ?",
+        "label": 2,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "Where is the Little League Museum ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "What are the two types of twins ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the brightest star ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is diabetes ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "When was President Kennedy shot ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is TMJ ?",
+        "label": 3,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What color is yak milk ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What date was Dwight D. Eisenhower born ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "What does the technical term ISDN mean ?",
+        "label": 3,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Why is the sun yellow ?",
+        "label": 0,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "What is the conversion rate between dollars and pounds ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "When was Abraham Lincoln born ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is the Milky Way ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is mold ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What year was Mozart born ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is a group of frogs called ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "What is the name of William Penn 's ship ?",
+        "label": 1,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "What is the melting point of gold ?",
+        "label": 5,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the street address of the White House ?",
+        "label": 4,
+        "major": 1,
+        "len": 10
+    },
+    {
+        "text": "What is semolina ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What fruit is Melba sauce made from ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "What is Ursa Major ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the percentage of water content in the human body ?",
+        "label": 5,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "How much does water weigh ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What was President Lyndon Johnson 's reform program called ?",
+        "label": 1,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What is the murder rate in Windsor , Ontario ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "Who is the only president to serve 2 non-consecutive terms ?",
+        "label": 2,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "What is the population of Australia ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "Who painted the ceiling of the Sistine Chapel ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "Name a stimulant .",
+        "label": 1,
+        "major": 1,
+        "len": 4
+    },
+    {
+        "text": "What is the effect of volcanoes on the climate ?",
+        "label": 0,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What year did the Andy Griffith show begin ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What is acid rain ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the date of Mexico 's independence ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is the location of Lake Champlain ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the Illinois state flower ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is Maryland 's state bird ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is quicksilver ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who wrote `` The Divine Comedy '' ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "What is the speed of light ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is the width of a football field ?",
+        "label": 5,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "Why in tennis are zero points called love ?",
+        "label": 0,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What kind of dog was Toto in the Wizard of Oz ?",
+        "label": 1,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "What is a thyroid ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What does ciao mean ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the only artery that carries blue blood from the heart to the lungs ?",
+        "label": 1,
+        "major": 0,
+        "len": 16
+    },
+    {
+        "text": "How often does Old Faithful erupt at Yellowstone National Park ?",
+        "label": 5,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is acetic acid ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is the elevation of St. Louis , MO ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What color does litmus paper turn when it comes into contact with a strong acid ?",
+        "label": 1,
+        "major": 0,
+        "len": 16
+    },
+    {
+        "text": "What are the colors of the German flag ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is the Moulin Rouge ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What soviet seaport is on the Black Sea ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is the atomic weight of silver ?",
+        "label": 5,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What currency do they use in Brazil ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What are pathogens ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is mad cow disease ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "Name a food high in zinc .",
+        "label": 1,
+        "major": 1,
+        "len": 7
+    },
+    {
+        "text": "When did North Carolina enter the union ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "Where do apple snails live ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "What are ethics ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What does CPR stand for ?",
+        "label": 3,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is an annuity ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Who killed John F. Kennedy ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "Who was the first vice president of the U.S. ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "What birthstone is turquoise ?",
+        "label": 1,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Who was the first US President to ride in an automobile to his inauguration ?",
+        "label": 2,
+        "major": 2,
+        "len": 15
+    },
+    {
+        "text": "How old was the youngest president of the United States ?",
+        "label": 5,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "When was Ulysses S. Grant born ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is Muscular Dystrophy ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Who lived in the Neuschwanstein castle ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "What is propylene glycol ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is a panic disorder ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "Who invented the instant Polaroid camera ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "What is a carcinogen ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is a baby lion called ?",
+        "label": 1,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "What is the world 's population ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is nepotism ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is die-casting ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is myopia ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the sales tax rate in New York ?",
+        "label": 5,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "Developing nations comprise what percentage of the world 's population ?",
+        "label": 5,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "What is the fourth highest mountain in the world ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is Shakespeare 's nickname ?",
+        "label": 2,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the heaviest naturally occurring element ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "When is Father 's Day ?",
+        "label": 5,
+        "major": -1,
+        "len": 6
+    },
+    {
+        "text": "What does the acronym NASA stand for ?",
+        "label": 3,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "How long is the Columbia River in miles ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "What city 's newspaper is called `` The Star '' ?",
+        "label": 4,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "What is carbon dioxide ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Where is the Mason/Dixon line ?",
+        "label": 4,
+        "major": 4,
+        "len": 6
+    },
+    {
+        "text": "When was the Boston tea party ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is metabolism ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Which U.S.A. president appeared on `` Laugh-In '' ?",
+        "label": 2,
+        "major": -1,
+        "len": 9
+    },
+    {
+        "text": "What are cigarettes made of ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the capital of Zimbabwe ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "What does NASA stand for ?",
+        "label": 3,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the state flower of Michigan ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What are semiconductors ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is nuclear power ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is a tsunami ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Who is the congressman from state of Texas on the armed forces committee ?",
+        "label": 2,
+        "major": 2,
+        "len": 14
+    },
+    {
+        "text": "Who was president in 1913 ?",
+        "label": 2,
+        "major": 2,
+        "len": 6
+    },
+    {
+        "text": "When was the first kidney transplant ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What are Canada 's two territories ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What was the name of the plane Lindbergh flew solo across the Atlantic ?",
+        "label": 1,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "What is genocide ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What continent is Argentina on ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What monastery was raided by Vikings in the late eighth century ?",
+        "label": 1,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "What is an earthquake ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Where is the tallest roller coaster located ?",
+        "label": 4,
+        "major": 4,
+        "len": 8
+    },
+    {
+        "text": "What are enzymes ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "Who discovered oxygen ?",
+        "label": 2,
+        "major": 2,
+        "len": 4
+    },
+    {
+        "text": "What is bangers and mash ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the name given to the Tiger at Louisiana State University ?",
+        "label": 1,
+        "major": 1,
+        "len": 13
+    },
+    {
+        "text": "Where are the British crown jewels kept ?",
+        "label": 4,
+        "major": 4,
+        "len": 8
+    },
+    {
+        "text": "Who was the first person to reach the North Pole ?",
+        "label": 2,
+        "major": 2,
+        "len": 11
+    },
+    {
+        "text": "What is an ulcer ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is vertigo ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is the spirometer test ?",
+        "label": 0,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "When is the official first day of summer ?",
+        "label": 5,
+        "major": -1,
+        "len": 9
+    },
+    {
+        "text": "What does the abbreviation SOS mean ?",
+        "label": 3,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is the smallest bird in Britain ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Who invented Trivial Pursuit ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "What gasses are in the troposphere ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "Which country has the most water pollution ?",
+        "label": 4,
+        "major": 4,
+        "len": 8
+    },
+    {
+        "text": "What is the scientific name for elephant ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "Who is the actress known for her role in the movie `` Gypsy '' ?",
+        "label": 2,
+        "major": 2,
+        "len": 15
+    },
+    {
+        "text": "What breed of hunting dog did the Beverly Hillbillies own ?",
+        "label": 1,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "What is the rainiest place on Earth ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Who was the first African American to win the Nobel Prize in literature ?",
+        "label": 2,
+        "major": 2,
+        "len": 14
+    },
+    {
+        "text": "When is St. Patrick 's Day ?",
+        "label": 5,
+        "major": -1,
+        "len": 7
+    },
+    {
+        "text": "What was FDR 's dog 's name ?",
+        "label": 1,
+        "major": 1,
+        "len": 8
+    },
+    {
+        "text": "What colors need to be mixed to get the color pink ?",
+        "label": 1,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "What is the most popular sport in Japan ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What is the active ingredient in baking soda ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "When was Thomas Jefferson born ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "How cold should a refrigerator be ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "When was the telephone invented ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "What is the most common eye color ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "Where was the first golf course in the United States ?",
+        "label": 4,
+        "major": 4,
+        "len": 11
+    },
+    {
+        "text": "What is schizophrenia ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is angiotensin ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What did Jesse Jackson organize ?",
+        "label": 2,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is New York 's state bird ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is the National Park in Utah ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is Susan B. Anthony 's birthday ?",
+        "label": 5,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "In which state would you find the Catskill Mountains ?",
+        "label": 4,
+        "major": -1,
+        "len": 10
+    },
+    {
+        "text": "What do you call a word that is spelled the same backwards and forwards ?",
+        "label": 1,
+        "major": 0,
+        "len": 15
+    },
+    {
+        "text": "What are pediatricians ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What chain store is headquartered in Bentonville , Arkansas ?",
+        "label": 2,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What are solar cells ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What is compounded interest ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What are capers ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is an antigen ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What currency does Luxembourg use ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is the population of Venezuela ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What type of polymer is used for bulletproof vests ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What currency does Argentina use ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "What is a thermometer ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What Canadian city has the largest population ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What color are crickets ?",
+        "label": 1,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "Which country gave New York the Statue of Liberty ?",
+        "label": 4,
+        "major": 4,
+        "len": 10
+    },
+    {
+        "text": "What was the name of the first U.S. satellite sent into space ?",
+        "label": 1,
+        "major": 1,
+        "len": 13
+    },
+    {
+        "text": "What precious stone is a form of pure carbon ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What kind of gas is in a fluorescent bulb ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "What is rheumatoid arthritis ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What river runs through Rowe , Italy ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "What is cerebral palsy ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "What city is also known as `` The Gateway to the West '' ?",
+        "label": 4,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "How far away is the moon ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is the source of natural gas ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?",
+        "label": 1,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "What is pectin ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What is bio-diversity ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "What 's the easiest way to remove wallpaper ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "What year did the Titanic start on its journey ?",
+        "label": 5,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "How much of an apple is water ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "Who was the 22nd President of the US ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "What is the money they use in Zambia ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "How many feet in a mile ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "What is the birthstone of October ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "What is e-coli ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "what 's the middle name of movie producer joseph e. levine ?",
+        "label": 2,
+        "major": 1,
+        "len": 12
+    },
+    {
+        "text": "what two caribbean countries share the island of hispaniola ?",
+        "label": 4,
+        "major": 5,
+        "len": 10
+    },
+    {
+        "text": "what is in baby powder and baby lotion that makes it smell the way it does ?",
+        "label": 0,
+        "major": 0,
+        "len": 17
+    },
+    {
+        "text": "what is probability theory ?",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "who told all in ball four ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "who followed willy brandt as chancellor of the federal republic of germany ?",
+        "label": 2,
+        "major": 2,
+        "len": 13
+    },
+    {
+        "text": "what continent 's second-highest peak is mont blanc ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "what peruvian city is home to the mummified body of francisco pizarro ?",
+        "label": 4,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "when did french revolutionaries storm the bastille ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "how can i look up someone 's e-mail address on the internet ?",
+        "label": 0,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "how many men died building the mackinaw bridge ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "how do you tell somebody you like them ?",
+        "label": 0,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "what name does the world know renaissance artist kyriakos theotokopoulos by ?",
+        "label": 2,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "who is the president of bolivia ?",
+        "label": 2,
+        "major": 2,
+        "len": 7
+    },
+    {
+        "text": "what nationality is gorbachev ?",
+        "label": 4,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "who played the title role in the romantic englishwoman ?",
+        "label": 2,
+        "major": 2,
+        "len": 10
+    },
+    {
+        "text": "what president once told gene autry   `` please give my regards to your wife dale '' ?",
+        "label": 2,
+        "major": 0,
+        "len": 19
+    },
+    {
+        "text": "who made the deodorant that claimed that it `` actually builds up resistance to odor '' ?",
+        "label": 2,
+        "major": 2,
+        "len": 17
+    },
+    {
+        "text": "what is the shape of a football as stated in the nfl rulebook ?",
+        "label": 1,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "what is the origin of thank you notes ?",
+        "label": 0,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "who used auh2o as an election slogan ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "how long do you have to pay back debt after claiming chapter 11 bankruptcy ?",
+        "label": 5,
+        "major": 0,
+        "len": 15
+    },
+    {
+        "text": "what shakespearean play featured shylock ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "why do roosters sing at five o 'clock in the morning ?",
+        "label": 0,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "what features of the african elephant are larger than those of the indian elephant ?",
+        "label": 0,
+        "major": 0,
+        "len": 15
+    },
+    {
+        "text": "what south american country won its first world cup soccer title in 1978 ?",
+        "label": 4,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "how many cullions does a male have ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "what painter popularized soup cans and brillo soap pad boxes ?",
+        "label": 2,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "who played lucas mccain on the rifleman ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "what colorful sea 's region does greek legend say the amazons lived near ?",
+        "label": 4,
+        "major": 0,
+        "len": 14
+    },
+    {
+        "text": "who was the only person convicted in the my lai massacre ?",
+        "label": 2,
+        "major": 2,
+        "len": 12
+    },
+    {
+        "text": "on what continent is mozambique ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "what words in the english have two u 's back to back ?",
+        "label": 1,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "what do hasidic jews refrain from while dating ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "what was the name given the 6 , 500 german airforce troops that used the spanish civil war as a training exercise ?",
+        "label": 2,
+        "major": 0,
+        "len": 23
+    },
+    {
+        "text": "what is the poetic meter of blank verse ?",
+        "label": 0,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "rotary engine cars were made by what company ?",
+        "label": 2,
+        "major": 1,
+        "len": 9
+    },
+    {
+        "text": "what is the history of the soft drink mr. pibb ?",
+        "label": 0,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "what materials did the three little pigs use to build their houses ?",
+        "label": 1,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "what part did benjamin franklin play in the development of the newspaper in america ?",
+        "label": 2,
+        "major": 0,
+        "len": 15
+    },
+    {
+        "text": "when was microsoft established ?",
+        "label": 5,
+        "major": 5,
+        "len": 5
+    },
+    {
+        "text": "when did president kennedy , lee harvey oswald , and jack ruby all die ?",
+        "label": 5,
+        "major": 5,
+        "len": 15
+    },
+    {
+        "text": "what is the u.s. location of procter & gamble corporate offices ?",
+        "label": 4,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "what is platinum ?",
+        "label": 0,
+        "major": 0,
+        "len": 4
+    },
+    {
+        "text": "what state is known as the hawkeye state ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "who is the prime minister of australia ?",
+        "label": 2,
+        "major": 2,
+        "len": 8
+    },
+    {
+        "text": "what are all the southern states of the u.s. ?",
+        "label": 4,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "what does the river seine empty into ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "what did people use to freshen their breath before toothpaste ?",
+        "label": 1,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "what state did anita bryant represent in the 1959 miss america contest ?",
+        "label": 4,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "how many soldiers were involved in the last panama invasion by the united states of america ?",
+        "label": 5,
+        "major": 5,
+        "len": 17
+    },
+    {
+        "text": "describe the long march .",
+        "label": 0,
+        "major": 0,
+        "len": 5
+    },
+    {
+        "text": "what major league baseball team compiled the best won-lost record between 1957 and 1983 ?",
+        "label": 2,
+        "major": 1,
+        "len": 15
+    },
+    {
+        "text": "how many propellers helped power the plane the wright brothers flew into history ?",
+        "label": 5,
+        "major": 5,
+        "len": 14
+    },
+    {
+        "text": "what was the name of randy steven craft 's lawyer ?",
+        "label": 2,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "who won the first general election for president held in malawi in may 1994 ?",
+        "label": 2,
+        "major": 2,
+        "len": 15
+    },
+    {
+        "text": "where is south bend ?",
+        "label": 4,
+        "major": 4,
+        "len": 5
+    },
+    {
+        "text": "what country has the most coastline ?",
+        "label": 4,
+        "major": 4,
+        "len": 7
+    },
+    {
+        "text": "what two states is washington d.c. between ?",
+        "label": 4,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "in what year did joe dimaggio compile his 56-game hitting streak ?",
+        "label": 5,
+        "major": 5,
+        "len": 12
+    },
+    {
+        "text": "what year was the setting for american graffiti ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "when did the art of quilting begin ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "what must be exceeded to produce a sonic boom ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "what is a fear of fish ?",
+        "label": 1,
+        "major": 1,
+        "len": 7
+    },
+    {
+        "text": "how much did the iran-contra investigation cost ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "what does the double-o indicate in 007 ?",
+        "label": 0,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "what argentine revolutionary fought with castro and died in bolivia in may , 1979 ?",
+        "label": 2,
+        "major": 0,
+        "len": 15
+    },
+    {
+        "text": "what botanical marvel did nebuchadnezzar build ?",
+        "label": 4,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "what 's known as the queen of drinks ?",
+        "label": 1,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "what famous comic strip character died of acne ?",
+        "label": 2,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "what is an aortic abdominal aneurysm ?",
+        "label": 0,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "how many john deere tractors have been manufactured ?",
+        "label": 5,
+        "major": 5,
+        "len": 9
+    },
+    {
+        "text": "who is zebulon pike ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "what did the forward-thinking simon brothers bakery of chicago insert into bagels to boost business ?",
+        "label": 1,
+        "major": 0,
+        "len": 16
+    },
+    {
+        "text": "when did communist control end in hungary ?",
+        "label": 5,
+        "major": 5,
+        "len": 8
+    },
+    {
+        "text": "how do i legally make my own will and testament ?",
+        "label": 0,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "how do you make the color purple ?",
+        "label": 0,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "what beer 's name is translated as `` lion brew '' ?",
+        "label": 1,
+        "major": 1,
+        "len": 12
+    },
+    {
+        "text": "what has been the most common christian name of u.s. presidents ?",
+        "label": 2,
+        "major": 1,
+        "len": 12
+    },
+    {
+        "text": "how many cherubs are there on a trivial pursuit board ?",
+        "label": 5,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "how can i search for a word within my own webpage ?",
+        "label": 0,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "how many people live in chile ?",
+        "label": 5,
+        "major": 5,
+        "len": 7
+    },
+    {
+        "text": "what sport do the cleaveland cavaliers play ?",
+        "label": 1,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "what european country 's monarchy was restored in 1975 ?",
+        "label": 4,
+        "major": 4,
+        "len": 10
+    },
+    {
+        "text": "what english explorer discovered and named virginia ?",
+        "label": 2,
+        "major": 0,
+        "len": 8
+    },
+    {
+        "text": "what war added jeep and quisling to the english language ?",
+        "label": 1,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "what people make up half the soviet union 's population ?",
+        "label": 2,
+        "major": 5,
+        "len": 11
+    },
+    {
+        "text": "what money was used here ?",
+        "label": 1,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "when did charles lindbergh die ?",
+        "label": 5,
+        "major": 5,
+        "len": 6
+    },
+    {
+        "text": "how many athletes did puerto rico enter in the 1984 winter olympics ?",
+        "label": 5,
+        "major": 5,
+        "len": 13
+    },
+    {
+        "text": "what is the highest continent ?",
+        "label": 4,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "who used to make cars with rotary engines ?",
+        "label": 2,
+        "major": 2,
+        "len": 9
+    },
+    {
+        "text": "what are my legal rights in an automobile repossession in california ?",
+        "label": 0,
+        "major": 0,
+        "len": 12
+    },
+    {
+        "text": "what is the meaning of caliente , in english , ?",
+        "label": 0,
+        "major": 0,
+        "len": 11
+    },
+    {
+        "text": "where can i find information on becoming a journalist ?",
+        "label": 4,
+        "major": 4,
+        "len": 10
+    },
+    {
+        "text": "what did jack exchange with the butcher for a handful of beans ?",
+        "label": 1,
+        "major": 0,
+        "len": 13
+    },
+    {
+        "text": "in what city does maurizio pellegrin now live ?",
+        "label": 4,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "who was buffalo bill ?",
+        "label": 2,
+        "major": 2,
+        "len": 5
+    },
+    {
+        "text": "what 's the shape of a camel 's spine ?",
+        "label": 1,
+        "major": 0,
+        "len": 10
+    },
+    {
+        "text": "what type of currency is used in china ?",
+        "label": 1,
+        "major": 0,
+        "len": 9
+    },
+    {
+        "text": "what is the temperature today ?",
+        "label": 5,
+        "major": 0,
+        "len": 6
+    },
+    {
+        "text": "what is the temperature for cooking ?",
+        "label": 5,
+        "major": 0,
+        "len": 7
+    },
+    {
+        "text": "what currency is used in australia ?",
+        "label": 1,
+        "major": 0,
+        "len": 7
+    }
+]

@@ -1,6 +1,6 @@
 task=agnews
 gpu=0
-method=bond
+method=selftrain
 max_seq_len=128
 batch_size=32
 echo ${method}

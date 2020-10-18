@@ -36,7 +36,7 @@ def main(args):
         if args.method in ['clean', 'noisy', "noise"]:
             trainer.train()
             trainer.save_features()
-        elif args.method == 'bond':
+        elif args.method == 'selftrain':
             trainer.train()
             trainer.selftrain(soft = args.soft_label, adv = args.add_adv)
         
@@ -46,7 +46,7 @@ def main(args):
 if __name__ == '__main__':
     
     parser = argparse.ArgumentParser()
-    parser.add_argument("--method", default='clean', type=str, help="which method to use in [clean | noisy | mt | vat | mixup | hard | bond]")
+    parser.add_argument("--method", default='clean', type=str, help="which method to use")
     parser.add_argument("--task_type", default="re", type=str, help="the specific task in IE: [ tc | re | ner ]")
     parser.add_argument("--gpu", default='0,1,2,3', type=str, help="which gpu to use")
     parser.add_argument("--task", default="semeval", type=str, help="The name of the task to train")
@@ -91,15 +91,15 @@ if __name__ == '__main__':
     # self-training
     parser.add_argument('--soft_label', type = int, default = 1, help = 'whether soft label (0 for hard, 1 for soft)')
     parser.add_argument("--soft_label_weight", default=1.0, type=float, help="iters for pretrains")
-    parser.add_argument('--bond_eps', type = float, default = 0.8, help = 'whether soft label (0 for hard, 1 for soft)')
+    parser.add_argument('--self_training_eps', type = float, default = 0.8, help = 'threshold for confidence')
     parser.add_argument('--self_training_power', type = float, default = 2, help = 'power of pred score')
-    parser.add_argument('--self_training_reg', type = float, default = 0, help = 'label smooth power')
-    parser.add_argument('--self_training_contrastive_weight', type = float, default = 0, help = 'graph label smooth power')
+    parser.add_argument('--self_training_reg', type = float, default = 0, help = 'confidence smooth power')
+    parser.add_argument('--self_training_contrastive_weight', type = float, default = 0, help = 'contrastive learning weight')
 
     parser.add_argument('--self_training_max_step', type = int, default = 10000, help = 'the maximum step (usually after the first epoch) for self training')    
     parser.add_argument('--distmetric', type = str, default = "l2", help = 'distance type. Choices = [cos, l2]')
     parser.add_argument('--self_training_label_mode', type = str, default = "hard", help = 'pseudo label type. Choices = [hard, soft]')
-    parser.add_argument('--self_training_update_period', type = int, default = 878, help = 'pseudo label type. Choices = [hard, soft]')
+    parser.add_argument('--self_training_update_period', type = int, default = 100, help = 'update period')
 
     args = parser.parse_args()
     os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu

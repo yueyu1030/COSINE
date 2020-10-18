@@ -39,7 +39,6 @@ AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
             Chemprot & Relation & 10 & 12.6k & 1.6k & 1.6k &  85.9 & 46.5  \\
             WiC & WSD & 2 & 5.4k & 0.6k & 1.4k & 63.4 & 58.8 \\
 # Code
-```
 - `main.py`: the main code to run the self-training code.
 
 - `dataloader.py`: the code to preprocess text data and tokenize it.
@@ -56,7 +55,27 @@ AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
    - `soft_frequency`: the function to reweight the value of teacher network's prediction based on [WESTClass](https://arxiv.org/abs/1812.11270).
    - `calc_loss`: Calculate the prediction loss for self-training with [confidence-based reweighting](https://arxiv.org/abs/1908.09822).
    - `contrastive_loss`: Contrastive loss on sample pairs.
-```
+
+# Run the Code
+Please use `run_agnews.sh` to run the code for AGnews dataset as an example.
+
+
+# Key Parameters
+For each model, we summarize the key parameters as follows (note that some parameters defined in the args are obsolete, and we will clean them up later): 
+## General
+ - use `--method` to determine the training method you use
+    - `clean`: train on clean data
+    - `noisy`: train directly on weakly labeled data
+    - `selftrain`: self-training
+- use `--task` to determine the dataset. Choice includes 'agnews', 'imdb', 'yelp', 'mit-r', 'trec', 'chemprot', 'wic.
+-  use `--task_type` to determine the training task. `tc` stands for text classification, 're' means relation classification.
+-  use `--gpu` to allocate the GPU resource to speed up training.
+- use `--max_seq_len` to determine the maximum number of tokens per sentences. 
+- use `--auto_load` to automatically load the cached training data. Otherwise, we will regenerate the training/dev/test set
+- Change code in `utils.py` to add special tokens (in line 26).
+## For self-training-based model
+  - Use `--selftrain_eps` to determine the threshold for confidence. Usually set around 0.6-0.7.
+  - Use `--selftrain_power` to control the power for calculating pseudo
 
 ## Citation
 

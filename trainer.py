@@ -183,7 +183,7 @@ class Trainer(object):
                 loss = self.calc_loss(input = torch.log(softmax(logits)), \
                                         target= outputs_pseudo[0], \
                                         loss = self_training_loss, \
-                                        thresh = self.args.bond_eps, \
+                                        thresh = self.args.self_training_eps, \
                                         soft = soft, \
                                         conf = 'entropy', \
                                         confreg = self.args.self_training_confreg)
@@ -193,7 +193,7 @@ class Trainer(object):
                                         feat = outputs_pseudo[-1], \
                                         target= outputs_pseudo[0], \
                                         conf = 'entropy', \
-                                        thresh =  self.args.bond_eps, \
+                                        thresh =  self.args.self_training_eps, \
                                         distmetric = self.args.distmetric, \
                                         )
                     loss = loss + self.args.self_training_contrastive_weight * contrastive_loss

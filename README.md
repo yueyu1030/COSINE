@@ -15,7 +15,7 @@ The results on different datasets are summarized as follows:
 | Previous SOTA | 86.28 | 86.98 | 92.05 | 74.41 | 80.20 | 53.48 | 64.88 |
 | COSINE | 87.52 | 90.54 | 95.97 | 76.61 | 82.59 | 54.36 | 67.71 | 
 
-- *Previous SOTA*: Self-ensemble/FreeLB/Mixup/SMART (Fine-tuning Approach); Snorkel/WeSTClass/ImplyLoss/Denoise/UST (Weakly-supervised Approach).
+- *Previous SOTA*: [Self-ensemble](https://arxiv.org/abs/2002.10345)/[FreeLB](https://openreview.net/forum?id=BygzbyHFvB)[/Mixup](https://openreview.net/forum?id=r1Ddp1-Rb)/[SMART](https://www.aclweb.org/anthology/2020.acl-main.197/) (Fine-tuning Approach); [Snorkel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5951191/)/[WeSTClass](https://arxiv.org/abs/1812.11270)/[ImplyLoss](https://openreview.net/forum?id=SkeuexBtDr)/[Denoise](https://arxiv.org/abs/2010.04582)/UST (Weakly-supervised Approach).
 
 
 ## Data
@@ -39,6 +39,7 @@ AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
             Chemprot & Relation & 10 & 12.6k & 1.6k & 1.6k &  85.9 & 46.5  \\
             WiC & WSD & 2 & 5.4k & 0.6k & 1.4k & 63.4 & 58.8 \\
 # Code
+```
 - `main.py`: the main code to run the self-training code.
 
 - `dataloader.py`: the code to preprocess text data and tokenize it.
@@ -51,16 +52,10 @@ AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
   
 - `trainer.py`: the code to training the RoBERTa under different settings.
    - `train(self)`: training for stage 1
-   - `self_adaptive_train(self)`: model using [self-adaptive learning](https://arxiv.org/abs/2002.10319) during self-training (not useful).
-   - `selftrain_curriculum(self)`: model using curriculum learning with different proportion of the data during training.
    - `selftrain(self, soft = True, adv = False)`: the code for self-training based on pseudo-labeling with period update. It is similar to previous BOND model for NER.
    - `soft_frequency`: the function to reweight the value of teacher network's prediction based on [WESTClass](https://arxiv.org/abs/1812.11270).
    - `calc_loss`: Calculate the prediction loss for self-training with [confidence-based reweighting](https://arxiv.org/abs/1908.09822).
-   - `graph_loss`: Smooth neighbor loss based on [SNTG](https://arxiv.org/abs/1711.00258).
-   - `mt_train`: Implemention of [Mean-Teacher](https://arxiv.org/abs/1703.01780) Model.
-   - `vat_train`: Implemention of [VAT](https://arxiv.org/abs/1704.03976) Model.
-   - `mixup_train`: Implemention of [MixUp](https://openreview.net/forum?id=r1Ddp1-Rb) Model.
-   - **Note**: VAT and MT model is based on the implementation in the previous BOND repo.
+   - `contrastive_loss`: Contrastive loss on sample pairs.
 ```
 
 ## Citation

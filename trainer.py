@@ -75,7 +75,7 @@ class Trainer(object):
         l -= confreg *( torch.sum(input * w.unsqueeze(1)) + np.log(n_classes_) * n_classes_ )
         return l
 
-    def graph_loss(self, input, feat, target, conf = 'none', thresh = 0.1, distmetric = 'l2'):
+    def contrastive_loss(self, input, feat, target, conf = 'none', thresh = 0.1, distmetric = 'l2'):
         softmax = nn.Softmax(dim=1)
         target = softmax(target.view(-1, target.shape[-1])).view(target.shape)
         if conf == 'max':
@@ -189,7 +189,7 @@ class Trainer(object):
                                         confreg = self.args.self_training_confreg)
 
                 if self.args.self_training_contrastive_weight > 0:
-                    contrastive_loss = self.graph_loss(input = torch.log(softmax(logits)), \
+                    contrastive_loss = self.contrastive_loss(input = torch.log(softmax(logits)), \
                                         feat = outputs_pseudo[-1], \
                                         target= outputs_pseudo[0], \
                                         conf = 'entropy', \

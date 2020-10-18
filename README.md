@@ -8,7 +8,7 @@ This repo contains our code for paper [Fine-Tuning Pre-trained Language Model wi
 ## Benchmark
 The results on different datasets are summarized as follows:
 
-| Method | AGNews | IMDB | Yelp | TREC | MIT-R | Chemprot | WiC (dev) |
+| Method | AGNews | IMDB | Yelp | MIT-R | TREC | Chemprot | WiC (dev) |
 | ------ | ------- | ----- | ----------- | ------- | -------- | -------- | -------- | 
 | Full Supervision (Roberta-base)  | 91.41 | 94.26 | 97.27 |  88.51 | 96.68 | 79.65 |  70.53 |
 | Direct Fine-tune with Weak Supervision (Roberta-base) | 82.25 | 72.60 | 74.89 |  70.95 |  62.25 |  44.80 | 59.36 |

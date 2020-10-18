@@ -46,7 +46,7 @@ The weakly labeled datasets we used in our experiments are in here: [dataset](da
    - `train(self)`: training for stage 1
    - `selftrain(self, soft = True)`: the code for self-training based on pseudo-labeling with period update. 
    - `soft_frequency`: the function to reweight the value of pseudo-labels based on [WESTClass](https://arxiv.org/abs/1812.11270).
-   - `calc_loss`: Calculate the prediction loss for self-training with [confidence-based reweighting](https://arxiv.org/abs/1908.09822).
+   - `calc_loss`: Calculate the prediction loss for self-training.
    - `contrastive_loss`: Contrastive loss on sample pairs.
 
 # Run the Code

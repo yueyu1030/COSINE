@@ -67,15 +67,18 @@ For each model, we summarize the key parameters as follows (note that some param
     - `clean`: train on clean data
     - `noisy`: train directly on weakly labeled data
     - `selftrain`: self-training
-- use `--task` to determine the dataset. Choice includes 'agnews', 'imdb', 'yelp', 'mit-r', 'trec', 'chemprot', 'wic.
+- use `--task` to determine the dataset. Choice includes 'agnews', 'imdb', 'yelp', 'mit-r', 'trec', 'chemprot', 'wic'.
 -  use `--task_type` to determine the training task. `tc` stands for text classification, 're' means relation classification.
 -  use `--gpu` to allocate the GPU resource to speed up training.
 - use `--max_seq_len` to determine the maximum number of tokens per sentences. 
 - use `--auto_load` to automatically load the cached training data. Otherwise, we will regenerate the training/dev/test set
 - Change code in `utils.py` to add special tokens (in line 26).
+
 ## For self-training-based model
-  - Use `--selftrain_eps` to determine the threshold for confidence. Usually set around 0.6-0.7.
-  - Use `--selftrain_power` to control the power for calculating pseudo
+  - Use `--self_training_eps` to determine the threshold for confidence. Usually set around 0.6-0.7.
+  - Use `--self_training_power` to control the power for calculating pseudo labels.
+  - Use `--self_training_contrastive_weight` to control the power for contrastive loss.
+  - Use `--self_training_confreg` to control the power for confidence regularization.
 
 ## Citation
 

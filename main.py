@@ -93,7 +93,7 @@ if __name__ == '__main__':
     parser.add_argument("--soft_label_weight", default=1.0, type=float, help="iters for pretrains")
     parser.add_argument('--self_training_eps', type = float, default = 0.8, help = 'threshold for confidence')
     parser.add_argument('--self_training_power', type = float, default = 2, help = 'power of pred score')
-    parser.add_argument('--self_training_reg', type = float, default = 0, help = 'confidence smooth power')
+    parser.add_argument('--self_training_confreg', type = float, default = 0, help = 'confidence smooth power')
     parser.add_argument('--self_training_contrastive_weight', type = float, default = 0, help = 'contrastive learning weight')
 
     parser.add_argument('--self_training_max_step', type = int, default = 10000, help = 'the maximum step (usually after the first epoch) for self training')    

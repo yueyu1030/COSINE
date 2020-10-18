@@ -1,7 +1,6 @@
 
 ## Original dataset
 the training and testing data downloaded from [here](https://groups.csail.mit.edu/sls/downloads/restaurant)
-
 	- {all.words.txt,all.tags.txt} : Unrolled version of [restauranttrain.bio](https://groups.csail.mit.edu/sls/downloads/restaurant/restauranttrain.bio)
 	- {test.words.txt,test.tags.txt}: Unrolled version of [restauranttest.bio](https://groups.csail.mit.edu/sls/downloads/restaurant/restauranttest.bio)
 

@@ -123,7 +123,7 @@ class Trainer(object):
 
     
 
-    def selftrain(self, soft = True, adv = False):
+    def selftrain(self, soft = True):
         selftrain_dataset = ConcatDataset([self.train_dataset, self.unlabeled])
         ## generating pseudo_labels
         pseudo_labels = []

@@ -31,13 +31,6 @@ The weakly labeled datasets we used in our experiments are in here: [dataset](da
 | Coverage | 56.4\%  |  87.5\% | 82.8\% | 13.5\% | 95.0\% | 85.9\%  | 63.4\%  |
 | Accuracy | 83.1\% | 74.5\% | 71.5\% | 80.7\% | 63.8\% | 46.5\%  | 58.8\%  | 
 
-AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
-            IMDB &Sentiment &2 &20k & 2.5k & 2.5k & 87.5 & 74.5 \\ %\hline
-            Yelp &Sentiment& 2&30.4k & 3.8k & 3.8k & 82.8 & 71.5 \\ %\hline
-            MIT-R & Slot Filling& 9& 6.6k & 1.0k & 1.5k & 13.5 & 80.7 \\ %\hline
-            TREC & Question & 6& 4.8k & 0.6k & 0.6k & 95.0  & 63.8 \\ %\hline
-            Chemprot & Relation & 10 & 12.6k & 1.6k & 1.6k &  85.9 & 46.5  \\
-            WiC & WSD & 2 & 5.4k & 0.6k & 1.4k & 63.4 & 58.8 \\
 # Code
 - `main.py`: the main code to run the self-training code.
 
@@ -47,12 +40,12 @@ AGNews &Topic &4 &96k & 12k & 12k & 56.4 & 83.1 \\ %\hline
 
 - `modeling_roberta.py`: the code to modify the basic Roberta model for our task (we need to directly output the feature vector for RoBERTa)
 
-- `model.py`: the RoBERTa model for text classfication. See `BERT_model` for details.
+- `model.py`: the RoBERTa model for classfication tasks. See `BERT_model` for details.
   
 - `trainer.py`: the code to training the RoBERTa under different settings.
    - `train(self)`: training for stage 1
-   - `selftrain(self, soft = True, adv = False)`: the code for self-training based on pseudo-labeling with period update. It is similar to previous BOND model for NER.
-   - `soft_frequency`: the function to reweight the value of teacher network's prediction based on [WESTClass](https://arxiv.org/abs/1812.11270).
+   - `selftrain(self, soft = True)`: the code for self-training based on pseudo-labeling with period update. 
+   - `soft_frequency`: the function to reweight the value of pseudo-labels based on [WESTClass](https://arxiv.org/abs/1812.11270).
    - `calc_loss`: Calculate the prediction loss for self-training with [confidence-based reweighting](https://arxiv.org/abs/1908.09822).
    - `contrastive_loss`: Contrastive loss on sample pairs.
 
@@ -82,7 +75,7 @@ For each model, we summarize the key parameters as follows (note that some param
 
 ## Citation
 
-Please cite the following paper if you are using our datasets/tool. Thanks!
+Please cite the following paper if you find our datasets/tool are useful. Thanks!
 
 ```
 @article{yu2020finetuning,

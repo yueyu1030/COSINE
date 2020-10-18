@@ -73,6 +73,9 @@ For each model, we summarize the key parameters as follows (note that some param
   - Use `--self_training_contrastive_weight` to control the power for contrastive loss.
   - Use `--self_training_confreg` to control the power for confidence regularization.
 
+## TODO:
+ - Add token classification version of our framework.
+
 ## Citation
 
 Please cite the following paper if you find our datasets/tool are useful. Thanks!

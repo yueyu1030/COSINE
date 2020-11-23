@@ -31,7 +31,13 @@ The weakly labeled datasets we used in our experiments are in here: [dataset](da
 | Coverage | 56.4\%  |  87.5\% | 82.8\% | 13.5\% | 95.0\% | 85.9\%  | 63.4\%  |
 | Accuracy | 83.1\% | 74.5\% | 71.5\% | 80.7\% | 63.8\% | 46.5\%  | 58.8\%  | 
 
-# Code
+## Package 
+- PyTorch 1.2
+- python 3.6
+- Transformers v2.8.0
+- tqdm
+
+## Code
 - `main.py`: the main code to run the self-training code.
 
 - `dataloader.py`: the code to preprocess text data and tokenize it.
@@ -49,11 +55,10 @@ The weakly labeled datasets we used in our experiments are in here: [dataset](da
    - `calc_loss`: Calculate the prediction loss for self-training.
    - `contrastive_loss`: Contrastive loss on sample pairs.
 
-# Run the Code
+## Run the Code
 Please use `run_agnews.sh` to run the code for AGnews dataset as an example.
 
-
-# Key Parameters
+## Key Parameters
 For each model, we summarize the key parameters as follows (note that some parameters defined in the args are obsolete, and we will clean them up later): 
 ## General
  - use `--method` to determine the training method you use

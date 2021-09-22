@@ -24,7 +24,7 @@ python3 main.py \
 	--batch_size=${batch_size} \
 	--max_seq_len=${max_seq_len} \
 	--auto_load=1 \
-	--bond_eps=0.6 \
+	--self_training_eps=0.6 \
 	--self_training_update_period=250 \
 	--max_steps=150 \
 	--self_training_max_step=2500 \

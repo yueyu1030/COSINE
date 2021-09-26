@@ -1,7 +1,7 @@
 # COSINE
-Update: Our paper is accepted to appear at NAACL-HLT 2021.
+This repo contains our code for paper [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) (In Proc. of NAACL-HLT 2021). 
 
-This repo contains our code for paper [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835) (arXiv preprint 2010.07835). 
+COSINE is also included in the [WRENCH benchmark 🔧](https://github.com/JieyuZ2/wrench). Feel free to checkout the [repo](https://github.com/JieyuZ2/wrench/blob/main/wrench/endmodel/cosine.py#L66) and the [preprint](https://arxiv.org/pdf/2109.11377.pdf) for details!
 
 
 ## Model Framework
@@ -89,13 +89,11 @@ For each model, we summarize the key parameters as follows (note that some param
 Please cite the following paper if you find our datasets/tool are useful. Thanks!
 
 ```
-@article{yu2020finetuning,
+@inproceedings{yu2021fine,
   title={Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach},
   author={Yu, Yue and Zuo, Simiao and Jiang, Haoming and Ren, Wendi and Zhao, Tuo and Zhang, Chao},
-  journal   = {CoRR},
-  volume    = {abs/2010.07835},
-  year={2020},
-  url       = {http://arxiv.org/abs/2010.07835},
-  archivePrefix = {arXiv},
+  booktitle={Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
+  pages={1063--1077},
+  year={2021}
 }
 ```

@@ -31,14 +31,14 @@ def main(args):
             )
 
     if args.do_train:
-        if args.pretrain:
-            trainer.pretrain()
+        #if args.pretrain:
+        #    trainer.pretrain()
         if args.method in ['clean', 'noisy', "noise"]:
             trainer.train()
             trainer.save_features()
         elif args.method == 'selftrain':
             trainer.train()
-            trainer.selftrain(soft = args.soft_label, adv = args.add_adv)
+            trainer.selftrain(soft = args.soft_label)#, adv = args.add_adv)
         
     if args.do_eval:
         trainer.evaluate('test')
@@ -102,8 +102,8 @@ if __name__ == '__main__':
     parser.add_argument('--self_training_update_period', type = int, default = 100, help = 'update period')
 
     args = parser.parse_args()
-    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
-    print(os.environ['CUDA_VISIBLE_DEVICES'])
+    #os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+    #print(os.environ['CUDA_VISIBLE_DEVICES'])
     args.model_name_or_path = MODEL_PATH_MAP[args.model_type]
     if args.method == 'clean':
         args.rule = 0

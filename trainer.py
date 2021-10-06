@@ -212,7 +212,7 @@ class Trainer(object):
                     self.model.zero_grad()
                     teacher_model.zero_grad()
                     global_step += 1
-                    epoch_iterator.set_description("SelfTrain iter:%d Loss:%.3f m:%.3f" % (step, selftrain_loss/global_step, ))
+                    epoch_iterator.set_description("SelfTrain iter:%d Loss:%.3f" % (step, selftrain_loss/global_step, ))
                     if self.args.logging_steps > 0 and global_step % self.args.self_train_logging_steps == 0:
                         self.evaluate('dev', global_step)
                         self.evaluate('test', global_step)
@@ -416,4 +416,3 @@ class Trainer(object):
             logger.info("***** Model Loaded *****")
         except:
             raise Exception("Some model files might be missing...")
-         

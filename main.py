@@ -102,8 +102,8 @@ if __name__ == '__main__':
     parser.add_argument('--self_training_update_period', type = int, default = 100, help = 'update period')
 
     args = parser.parse_args()
-    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu #I had to comment this out to make it work (CUDA memory error)
-    print(os.environ['CUDA_VISIBLE_DEVICES']) #I had to comment this out to make it work
+    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+    print(os.environ['CUDA_VISIBLE_DEVICES'])
     args.model_name_or_path = MODEL_PATH_MAP[args.model_type]
     if args.method == 'clean':
         args.rule = 0

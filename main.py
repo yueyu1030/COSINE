@@ -31,14 +31,14 @@ def main(args):
             )
 
     if args.do_train:
-        if args.pretrain:
-            trainer.pretrain()
+        #if args.pretrain:
+        #    trainer.pretrain()
         if args.method in ['clean', 'noisy', "noise"]:
             trainer.train()
             trainer.save_features()
         elif args.method == 'selftrain':
             trainer.train()
-            trainer.selftrain(soft = args.soft_label, adv = args.add_adv)
+            trainer.selftrain(soft = args.soft_label)#, adv = args.add_adv)
         
     if args.do_eval:
         trainer.evaluate('test')

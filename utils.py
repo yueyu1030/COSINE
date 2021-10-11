@@ -6,7 +6,7 @@ import torch
 import numpy as np
 from transformers import BertTokenizer, BertConfig, AlbertConfig, AlbertTokenizer, RobertaConfig, RobertaTokenizer
 
-from official_eval import official_f1
+#from official_eval import official_f1
 from model import RBERT, BERT_model, WiCBERT, ReBERT
 from sklearn.metrics import recall_score, precision_recall_fscore_support
 
@@ -285,4 +285,3 @@ def acc_and_f1(preds, labels, average='macro'):
         "micro-f1": f,
         "f1-cat": f1cat,
     }
-
